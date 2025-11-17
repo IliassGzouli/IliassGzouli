@@ -43,10 +43,16 @@ Repository link: [Data_analysis_on_world_population_Dataset](https://github.com/
 ---
 
 ## Tech Stack
-- Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- Jupyter Notebook  
-- Data Cleaning and Exploratory Analysis  
-- Git and GitHub
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellowgreen)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-lightgrey)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-success)
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Repositories-black)
+
 
 ---
 
