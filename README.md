@@ -43,7 +43,7 @@ Repository link: [Data_analysis_on_world_population_Dataset](https://github.com/
 ---
 
 ## Tech Stack
-## Tech Stack
+
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellowgreen)
